@@ -37,7 +37,7 @@ The repository highlights a progression from low-level programming to modern web
 Clone the repository:
    git clone [https://github.com/VivekSalve2004/CodeNimbus.git](https://github.com/VivekSalve2004/CodeNimbus.git)
    
-Open index.html in any modern web browser to view the project.
+Open index.html in any modern web browser to view the project (Use live server).
 
 C Program:
 Ensure you have a C compiler (like GCC) installed.
